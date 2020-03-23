@@ -8,7 +8,7 @@ public class Solution {
     	String answer = "";
         String temp = "";
         //기본값으로 sort를 하게 될경우 오름차순으로 정렬된다.
-        Arrays.sort(parp gkrticipant);
+        Arrays.sort(participant);
         Arrays.sort(completion);
         
         int i;
